@@ -2,6 +2,9 @@
 
 把 B站 课程/讲座系列整理成带时间轴、720p 截图和连贯讲解的图文笔记，并发布到 GitHub Pages。
 
+- 仓库：<https://github.com/Pingpongdragon/bilibili-course-notes-skill>
+- 发布包：`bilibili-course-notes-skill.zip`（本仓库根目录）
+
 ## 安装
 
 DSH 会从这些目录发现 skill（优先级从高到低）：
