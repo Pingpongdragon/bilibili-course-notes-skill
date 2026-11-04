@@ -1,0 +1,13 @@
+{
+  "name": "bilibili-course-notes-skill",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Turn Bilibili lectures into timestamped illustrated notes and a GitHub Pages blog.",
+  "scripts": {
+    "build": "node scripts/build_html.mjs"
+  },
+  "dependencies": {
+    "marked": "^12.0.0"
+  }
+}
